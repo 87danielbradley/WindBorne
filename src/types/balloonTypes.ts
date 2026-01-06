@@ -4,5 +4,5 @@ export type Positions = Point[];
 
 export type Positions24h = Positions[];
 
-export type HourIndex = number;
+export type HourOffset = number;
 
